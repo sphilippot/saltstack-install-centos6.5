@@ -10,6 +10,4 @@ yum install salt-minion -y
 chkconfig salt-minion on
 service salt-minion start
 
-echo fire !
-
 
