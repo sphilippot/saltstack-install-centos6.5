@@ -10,5 +10,3 @@ yum install salt-master -y
 chkconfig salt-master on
 service salt-master start
 lokkit -p 4505:tcp -p 4506:tcp
-
-echo fire !
